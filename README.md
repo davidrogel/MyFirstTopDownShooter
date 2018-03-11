@@ -2,4 +2,4 @@
 
 Primera práctica desarrollada en ESNE
 
-Link para probarla: https://greyfull.itch.io/mini-topdownshooter
+Link para probar: https://greyfull.itch.io/mini-topdownshooter
